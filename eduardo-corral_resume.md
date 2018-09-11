@@ -1,4 +1,4 @@
-# Eduardo Corral Rivas :: Software Engineer :: CV
+# Eduardo Corral Rivas :: Software Engineer
 
 ## Intro
 
