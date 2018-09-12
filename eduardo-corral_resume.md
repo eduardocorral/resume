@@ -29,7 +29,7 @@ _Software Engineer -> Senior Software Engineer -> Principal Software Engineer, C
 
 _Core services Architect/Developer, Dev Lead_
 
-* Continued role as designer/developer/tester of the event-driven provisioning workflow engine, this time for Telefónica Latinoamerica (TLATAM)
+* Continued role as designer/developer/tester of the event-driven provisioning workflow engine, this time for Telefónica Latinoamérica (TLATAM)
 * Collaborator in the Telefónica OSS/Alcatel ACS integration project (CPE remote configuration via TR-069)
 * Leading the project to migrate to Ericsson/Telefónica JIRA-based Demand Management Tool
 
