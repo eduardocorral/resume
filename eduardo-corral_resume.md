@@ -10,7 +10,7 @@ Build great products that actually help people. Gradual transition to management
 
 ## Skills
 * Expert: Java & JVM ecosystem, Application Containers (Tomcat/JBoss), Spring Framework (including Boot), SQL (PostgreSQL/Oracle), REST, Shell scripting, Docker, Gradle/Maven/Ant, Jenkins, JUnit/BDD (Cucumber/Gherkin), Refactoring, SVN/Git, Linux
-* Basic: Python, MongoDB, Kubernetes
+* Basic: Python, MongoDB, Kubernetes, Angular, Typescript
 * Previous: Solaris, C/C++, SOAP WS
 
 ## Experience
@@ -20,10 +20,10 @@ _Software Engineer -> Senior Software Engineer -> Principal Software Engineer, C
 
  * Long term, and one of the main contributors to the award-winning OTC Clearing, and recently released ETD Clearing Calypso solutions
  * Main designer, coder, tester, reviewer, best practices advocate, Confluence editor, and person-to-ask for the Clearing team
- * Now taking the same roles and responsibilities in the Margin Cloud solution
+ * Now taking the same roles and responsibilities in the Margin Cloud solution (ISDA Bilateral/OTC VaR/ETD Margin calculator implementations)
  * Helped customers achieve successful implementations, including Santander, BBVA, HSBC, Swedbank, Erste Bank, CME, COMDER, ...
  * Designer and lead developer of CDML (Clearing Data Markup Language), the format and framework used by Calypso to acquire and digest CCP EOD data
- * One of the early adopters and advocate of Docker at Calypso, collaborating with Releng (DevOps) for a broader adoption in every day tasks 
+ * Docker evangelist: early adopter, advocate of Docker at Calypso, collaborating with Releng (DevOps) for a broader adoption in every day tasks, helping anyone wanting to learn the technology
 
 ### 2009-2011 (Madrid, Spain) :: Arcitel GFI/Experience IS for Ericsson SA/Telefónica I+D (Telecomm, Client networks)
 
