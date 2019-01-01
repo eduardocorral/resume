@@ -10,7 +10,7 @@ Build great products that actually help people. Gradual transition to management
 
 ## Skills
 * Expert: Java & JVM ecosystem, Application Containers (Tomcat/JBoss), Spring Framework (including Boot), SQL (PostgreSQL/Oracle), REST, Shell scripting, Docker, Gradle/Maven/Ant, Jenkins, JUnit/BDD (Cucumber/Gherkin), Refactoring, SVN/Git, Linux
-* Basic: Python, MongoDB, Kubernetes, Angular, Typescript
+* Basic: Python, MongoDB, Kubernetes, Angular, Typescript, Dart, Flutter
 * Previous: Solaris, C/C++, SOAP WS
 
 ## Experience
