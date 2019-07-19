@@ -18,7 +18,7 @@ Build great products that actually help people. Improve my management skills, wh
 
 _Feb 2019: Engineering Manager, Margin Team_
 
-_Nov 2011-Feb 2011 : Software Engineer -> Senior Software Engineer -> Principal Software Engineer, Clearing & Margin Team_
+_Nov 2011-Feb 2019 : Software Engineer -> Senior Software Engineer -> Principal Software Engineer, Clearing & Margin Team_
 
  * Long term, and one of the main contributors to the award-winning OTC Clearing, and recently released ETD Clearing Calypso solutions
  * Main designer, coder, tester, reviewer, best practices advocate, Confluence editor, and person-to-ask for the Clearing team
