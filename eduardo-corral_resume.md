@@ -1,4 +1,4 @@
-# Eduardo Corral Rivas :: Software Engineer
+# Eduardo Corral Rivas :: Engineering Manager
 
 ## Intro
 
@@ -6,7 +6,7 @@ Generalistic software engineer with strong OS/Networks foundation, and DevOps in
 
 ## Goals
 
-Build great products that actually help people. Gradual transition to management positions, while keeping a solid technical foundation.
+Build great products that actually help people. Improve my management skills, while keeping a solid technical foundation.
 
 ## Skills
 * Expert: Java & JVM ecosystem, Application Containers (Tomcat/JBoss), Spring Framework (including Boot), SQL (PostgreSQL/Oracle), REST, Shell scripting, Docker, Gradle/Maven/Ant, Jenkins, JUnit/BDD (Cucumber/Gherkin), Refactoring, SVN/Git, Linux
@@ -16,7 +16,9 @@ Build great products that actually help people. Gradual transition to management
 ## Experience
 ### 2011-current (SF, USA) :: Calypso Technology (Fintech)
 
-_Software Engineer -> Senior Software Engineer -> Principal Software Engineer, Clearing & Margin Team_
+_Feb 2019: Engineering Manager, Margin Team_
+
+_Nov 2011-Feb 2011 : Software Engineer -> Senior Software Engineer -> Principal Software Engineer, Clearing & Margin Team_
 
  * Long term, and one of the main contributors to the award-winning OTC Clearing, and recently released ETD Clearing Calypso solutions
  * Main designer, coder, tester, reviewer, best practices advocate, Confluence editor, and person-to-ask for the Clearing team
