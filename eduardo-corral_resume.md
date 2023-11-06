@@ -1,20 +1,33 @@
-# Eduardo Corral Rivas :: Engineering Manager
+# Eduardo Corral Rivas :: Cloud Architect
 
 ## Intro
 
-Generalistic software engineer with strong OS/Networks foundation, and DevOps inclinations. Self-driven, motivated, adaptable, unsupervised.
+Generalistic software engineer and architect with strong OS/Networks foundation, and Cloud/DevOps inclinations. Self-driven, motivated, adaptable, unsupervised.
 
 ## Goals
 
 Build great products that actually help people. Improve my management skills, while keeping a solid technical foundation.
 
 ## Skills
-* Expert: Java & JVM ecosystem, Application Containers (Tomcat/JBoss), Spring Framework (including Boot), SQL (PostgreSQL/Oracle), REST, Shell scripting, Docker, Gradle/Maven/Ant, Jenkins, JUnit/BDD (Cucumber/Gherkin), Refactoring, SVN/Git, Linux
-* Basic: Python, MongoDB, Kubernetes, Angular, Typescript, Dart, Flutter
-* Previous: Solaris, C/C++, SOAP WS
+
+Java & JVM ecosystem, Application Containers (Tomcat/JBoss), Spring Framework (including Boot), SQL (PostgreSQL/Oracle), REST, Shell scripting, Docker, Gradle/Maven/Ant, Jenkins, JUnit/BDD (Cucumber/Gherkin), Refactoring, SVN/Git, Linux, Kubernetes, Helm, Cloud (AWS/OCI), Terraform, Ansible, Python, Prometheus, Grafana/Loki, Gitlab, kind, minikube
 
 ## Experience
-### 2011-current (SF, USA) :: Calypso Technology (Fintech)
+### 2019-current (SF, USA) :: Adenza/Nasdaq (Fintech)
+
+_Dec 2019-Today : Senior Architect -> Principal Architect -> Director of Architecture, Cloud Architecture Team_
+
+ * Delivered end-to-end datacenter provisioning and automation suite to stand up all necessary shared and client-specific infrastructure to deploy client environments in AWS ECS and OCI OKE 
+ * Lead engineer, contributor, and reviewer for the CapCloud Self-Service portal (client self-service UI & backend)
+ * Lead engineer, contributor, and reviewer for the SaaS Project cloud tools: helm charts, container images, and automation tools to deploy client environments in OCI OKE, and perform other maintenance and auxiliary tasks
+ * Engineer, contributor, and reviewer for the gitlab/ansible-based cloud automation pipelines
+ * Author of numerous internal manuals and training recordings regarding cloud, containers and k8s
+ * Author of the internal guide for R&D to setup a full cloud-compatible dev/test environment based on minikube
+ * Containerization strategy/k8s evangelist 
+
+\pagebreak
+
+### 2011-2019 (SF, USA) :: Calypso Technology (Fintech)
 
 _Feb 2019: Engineering Manager, Margin Team_
 
@@ -43,6 +56,8 @@ _Core services Architect/Developer, Support_
 * On site testing and pre-production support (pre/post O2 acquisition)
 * Collaborated in the design and development of the in-house event-driven workflow engine 
 
+\pagebreak
+
 ### 2005-2006 (Madrid, Spain) :: Coritel (Accenture Spain)
 
 _Developer, Dev Lead_
@@ -61,4 +76,9 @@ _Intranet Summer Intern_
 * 1996 : First Certificate in English (FCE), Cambridge University
 
 ## Other
-Spanish (native). 1st Calypso Talent Management promotion. Interest in music (listener and performer, former band member, 1 recording), reading, hiking, driving, traveling. Green Card holder.
+* Spanish & US Passport holder
+* 1st Calypso Talent Management promotion
+* Multiple colleague recognition awards for helping beyond normal duties
+* Above-average EOY reviews uninterrupted since joining the company, and one of the few 5/5 ratings (2022)
+* Interest in music (listener and performer, former band member, 1 recording), reading, hiking, driving, riding, traveling
+* Car & Motorbike license
