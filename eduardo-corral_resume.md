@@ -10,7 +10,7 @@ Build great products that actually help people. Improve my management skills, wh
 
 ## Skills
 
-Java & JVM ecosystem, Application Containers (Tomcat/JBoss), Spring Framework (including Boot), SQL (PostgreSQL/Oracle), REST, Shell scripting, Docker, Gradle/Maven/Ant, Jenkins, JUnit/BDD (Cucumber/Gherkin), Refactoring, SVN/Git, Linux, Kubernetes, Helm, Cloud (AWS/OCI), Terraform, Ansible, Python, Prometheus, Grafana/Loki, Gitlab, kind, minikube
+Java & JVM ecosystem, Application Containers (Tomcat/JBoss), Spring Framework (including Boot), SQL (PostgreSQL/Oracle), REST, Shell scripting, Docker/Podman, Gradle/Maven/Ant, Jenkins, JUnit/BDD (Cucumber/Gherkin/Behave), Refactoring, SVN/Git, Linux, Kubernetes/kind/microk8s/minikube, Helm, Cloud (AWS/OCI), Terraform, Ansible, Python, Prometheus, Grafana/Loki/Tempo, Gitlab
 
 ## Experience
 ### 2019-current (SF, USA) :: Adenza/Nasdaq (Fintech)
@@ -23,7 +23,7 @@ _Dec 2019-Today : Senior Architect -> Principal Architect -> Director of Archite
  * Engineer, contributor, and reviewer for the gitlab/ansible-based cloud automation pipelines
  * Author of numerous internal manuals and training recordings regarding cloud, containers and k8s
  * Author of the internal guide for R&D to setup a full cloud-compatible dev/test environment based on minikube
- * Containerization strategy/k8s evangelist 
+ * Containerization strategy/k8s/cloud evangelist 
 
 \pagebreak
 
